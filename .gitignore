@@ -1,0 +1,20 @@
+# Ignore CSV and .tab files
+*.csv
+*.tab
+
+# Ignore VS Code folder
+.vscode/
+
+# Ignore Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+
+done/
+.DS_Store
+*.log
+*.sqlite3
+*.obo
+
+cluster_one*
